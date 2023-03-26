@@ -3,4 +3,5 @@ This presentation focuses on effective data storytelling and how to incorporate 
 By incorporating narrative and visual storytelling techniques into Power BI, I demonstrate how resulting reports are more engaging and explanatory, leading to greater adoption and an increased probability of uncovering insights. Using my own experience as a data analyst, along with drawing inspiration from Brent Dykes’s book “Effective Data Storytelling”, we will look at different cases where data storytelling principles may be applied and offer a specialized storytelling toolset to em-power data professionals.
 
 Presentation given at:
+
 Data Saturday Denmark 2023
